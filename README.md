@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agarwal1996
+- 👋
 - 👀 I’m interested in php
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel & Php
